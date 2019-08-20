@@ -11,7 +11,7 @@
                
                 "stations": [
  				  {
-"name": " 5 USA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3878.ts","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"},{
+"name": " 5 USA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3878.ts","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36","playInNatPlayer": "true","embed": "true"},{
 "name": " ABC NEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3880.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " AMC HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3882.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " BEINSPORTS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3888.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
