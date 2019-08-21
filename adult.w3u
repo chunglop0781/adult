@@ -360,24 +360,6 @@
 "name": "BOOMERANG FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4126.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "NICKELODEON HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1948.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "NICKELODEON FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16304.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "NICKELODEON JUNIOR","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1949.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "BOING HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1946.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "BOING FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16306.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "EQUIDIA LIFE HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1941.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "EQUIDIA LIFE FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16313.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "EQUIDIA LIVE HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1942.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "EQUIDIA LIVE FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16312.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "GOLF HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1938.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "GOLF CHANNEL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1939.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "GOLF  FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16315.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "GOLF CHANNEL FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16314.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TREK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16346.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TREK FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16318.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "EURONEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16343.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TV5 MONDE HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16353.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TV BREIZH HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1428.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TV BREIZH FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4154.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TIJI HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1535.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "TIJI FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4127.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
 
    }
@@ -438,11 +420,6 @@
 "name": "NICKELODEON","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1478.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "MTV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1089.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "TAQUILLA 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1647.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TAQUILLA 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1648.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TAQUILLA 3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1649.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TAQUILLA 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1650.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TAQUILLA 5","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1651.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TAQUILLA 6","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1652.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "TAQUILLA 7","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1653.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
 
 },		 
