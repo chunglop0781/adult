@@ -145,19 +145,6 @@
      "stations": [
         	  {
 
-"name": "TF1 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/288.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TF1 FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4183.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "TF1 HD +4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16361.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE 2 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/240.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE 2 FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4181.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE2 HD +4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16359.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE 3 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/241.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE 3 FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4180.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE3 HD +4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/16358.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "CANAL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/277.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "CANAL FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4176.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE 5 HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/243.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": "FRANCE 5 FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4178.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "TIJI FULL HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/4127.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"
 
    }
