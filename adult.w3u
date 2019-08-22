@@ -29,8 +29,7 @@
               
      "stations": [
         	  {
-
-"name": "BBC 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1174.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"image": "https://javhd.com/assets/images/warning-page/logo-warning.png","name": "JAVHD","url": "https://javhd.com/","playInNatPlayer": "true","embed": "true"},{
 "name": "BBC 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1173.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "BBC 3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1172.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": "BBC 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/1171.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
